@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/frontend-developer-technical-assessment/static/css/main.fce87b31.css",
+    "main.css": "/frontend-developer-technical-assessment/static/css/main.82a753b3.css",
     "main.js": "/frontend-developer-technical-assessment/static/js/main.7ec07cda.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/frontend-developer-technical-assessment/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/frontend-developer-technical-assessment/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -8,11 +8,11 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/frontend-developer-technical-assessment/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/frontend-developer-technical-assessment/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/frontend-developer-technical-assessment/index.html",
-    "main.fce87b31.css.map": "/frontend-developer-technical-assessment/static/css/main.fce87b31.css.map",
+    "main.82a753b3.css.map": "/frontend-developer-technical-assessment/static/css/main.82a753b3.css.map",
     "main.7ec07cda.js.map": "/frontend-developer-technical-assessment/static/js/main.7ec07cda.js.map"
   },
   "entrypoints": [
-    "static/css/main.fce87b31.css",
+    "static/css/main.82a753b3.css",
     "static/js/main.7ec07cda.js"
   ]
 }
